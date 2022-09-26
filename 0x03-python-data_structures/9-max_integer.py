@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-from re import M
-from tkinter.messagebox import RETRY
-
-
 def max_integer(my_list=[]):
     if len(my_list) == 0:
         return "None"
